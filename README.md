@@ -10,6 +10,10 @@ Games
 
 2. Google Pac-Plus
 
+<p align="center">
+  <img src="Google Pac-Plus.gif" alt="google-pacman" style="max-width:100%;">
+</p>
+
 Credits
 -------
 Google Pac-Man made by Google
