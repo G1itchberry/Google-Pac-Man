@@ -3,6 +3,8 @@ Pac-Man Doodle Collection
 
 A fork of Macek's repo for Pac-Man's 30th Anniversary Doodle that aims to fix and change certain things as well as provide a bundle of modified variants of the Google doodle wrapped into a little collection. Credit goes to Macek and anyone involved in the original repo.
 
+
+
 Games
 -----
 
@@ -10,9 +12,7 @@ Games
 
 2. Google Pac-Plus
 
-<p align="center">
-  <img src="Google Pac-Plus.gif" alt="google-pacman" style="max-width:100%;">
-</p>
+
 
 Credits
 -------
