@@ -1,0 +1,45 @@
+How To Play
+------------
+
+1. Insert Coin once for Single, insert coin twice for Double
+
+2. Eat all dots in the maze
+
+3. Avoid the ghosts
+
+4. You can eat them when they turn to blue via energizer
+
+
+
+
+
+Point Values
+------------
+1st ghost = 200 pts
+2nd ghost = 400 pts
+3rd ghost = 800 pts
+4th ghost = 1600 pts
+
+Cherry = 100 pts
+Strawberry = 300 pts
+Orange = 500 pts
+Apple = 700 pts
+Melon = 1000 pts
+Galaxian = 2000 pts
+Bell = 3000 pts
+Key = 5000 pts
+
+Dot = 10 pts
+Energizer = 50 pts
+
+
+
+
+
+Ghosts
+------
+
+Blinky - Will chase you down
+Pinky - Will ambush
+Inky - Will trap you with Blinky
+Clyde - Will run off when too close
