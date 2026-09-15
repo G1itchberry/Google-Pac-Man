@@ -17,3 +17,5 @@ Google Pac-Man made by Google
 Google Pac-Plus made by Glitchberry
 
 Pac-Man and Pac-Man Plus made by Bandai Namco
+
+Original Repo from Macek
