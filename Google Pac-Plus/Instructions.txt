@@ -1,0 +1,46 @@
+How To Play
+------------
+
+1. Insert Coin once for Single, insert coin twice for Double
+
+2. Eat all dots in the maze
+
+3. Avoid the ghosts
+
+4. You can eat them when they turn to purple via energizer but beware of the side effects
+
+
+
+
+
+Point Values
+------------
+           Energizer/Fruit
+1st ghost = 200 pts/400 pts
+2nd ghost = 400 pts/800 pts
+3rd ghost = 800 pts/1600 pts
+4th ghost = 1600 pts3200 pts
+
+Cola Can = 100 pts
+Cocktail = 300 pts
+Peapod = 500 pts
+Apple = 700 pts
+Grapes = 1000 pts
+Galaxian = 2000 pts
+Bread = 3000 pts
+Pancakes = 5000 pts
+
+Dot = 10 pts
+Energizer = 50 pts
+
+
+
+
+
+Ghosts
+------
+
+Blinky - Will chase you down
+Pinky - Will ambush
+Inky - Will trap you with Blinky
+Clyde - Will run off when too close
